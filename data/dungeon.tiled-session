@@ -1,0 +1,130 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tmx/level-1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "tileset_grounds.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "tmx/level-1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 159.75,
+                "y": 35.25
+            }
+        },
+        "tmx/level-2.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 166.125,
+                "y": 97.75
+            }
+        },
+        "tmx/level-last.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160.16666666666666,
+                "y": 120.16666666666666
+            }
+        },
+        "tmx/level-test.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 162.5,
+                "y": 135
+            }
+        },
+        "tmx/tileset_gamepad.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/tileset_grounds.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "tsx/tileset_props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/tileset_props_animated.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "tsx/tileset_walls.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tsx/tileset_weapons_animated.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/ui_gamepad.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/ui_hud.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 600,
+    "last.imagePath": "C:/Users/Vidra/Documents/Pygame/python-2d-game-boy-dungeon/images",
+    "map.height": 15,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 20,
+    "openFiles": [
+        "tmx/level-1.tmx",
+        "tmx/level-last.tmx",
+        "tsx/tileset_grounds.tsx",
+        "tsx/tileset_walls.tsx",
+        "tsx/tileset_props.tsx",
+        "tsx/tileset_props_animated.tsx",
+        "tsx/ui_hud.tsx",
+        "tsx/ui_gamepad.tsx"
+    ],
+    "project": "dungeon.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "tsx/ui_gamepad.tsx",
+        "tsx/ui_hud.tsx",
+        "tsx/tileset_props_animated.tsx",
+        "tsx/tileset_props.tsx",
+        "tsx/tileset_walls.tsx",
+        "tsx/tileset_grounds.tsx",
+        "tmx/level-last.tmx",
+        "tmx/level-1.tmx",
+        "tmx/level-2.tmx",
+        "tsx/tileset_weapons_animated.tsx",
+        "tmx/level-test.tmx",
+        "tmx/tileset_gamepad.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 48,
+        "width": 48
+    }
+}
